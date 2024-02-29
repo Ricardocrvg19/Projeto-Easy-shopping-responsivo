@@ -7,3 +7,8 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <br>
 <br>
+<img src="https://github.com/Ricardocrvg19/Easy-shopping/blob/master/img/desktop.png?raw=true">
+<br>
+<br>
+<h3>Mobile project</h3>
+<br>
