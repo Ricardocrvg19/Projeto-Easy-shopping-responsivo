@@ -12,7 +12,7 @@
 <img src="https://github.com/Ricardocrvg19/Easy-shopping/blob/master/img/desktop.png?raw=true">
 <br>
 <br>
-<h3> Mobile project </h3>
+<h3> Mobile Project </h3>
 <br>
 <img src="https://github.com/Ricardocrvg19/Easy-shopping/blob/master/img/mobile.png?raw=true">
 <br>
